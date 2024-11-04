@@ -1,0 +1,11 @@
+Model Information:
+* title:	Helm of Domination
+* source:	https://sketchfab.com/3d-models/helm-of-domination-08c0069b2f5840cba920edc6c2b17a83
+* author:	Devin Eggleston (https://sketchfab.com/deggleston)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Helm of Domination" (https://sketchfab.com/3d-models/helm-of-domination-08c0069b2f5840cba920edc6c2b17a83) by Devin Eggleston (https://sketchfab.com/deggleston) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
